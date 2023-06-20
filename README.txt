@@ -10,7 +10,4 @@ Cara cari file mods:
 5.extract semua mod di folder mods
 6.enjoy 
 
-Info Server :
-IP Server Minecraft : 158.140.161.4:25564
-
 jaya jaya jaya
